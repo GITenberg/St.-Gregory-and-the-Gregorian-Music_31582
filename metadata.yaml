@@ -1,0 +1,29 @@
+_repo: St.-Gregory-and-the-Gregorian-Music_31582
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wyatt, E. G. P. (Edward Gerald Penfold)
+    alias: Wyatt, Edward Gerald Penfold
+    birthdate: 1869
+    gutenberg_agent_id: '35341'
+    url: http://www.gutenberg.org/2009/agents/35341
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31582'
+  lccn: 06008146
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gregorian chants -- History and criticism'
+- !lcc 'ML'
+- !lcsh 'Gregory I, Pope, approximately 540-604'
+title: St. Gregory and the Gregorian Music
+url: http://www.gutenberg.org/ebooks/31582
